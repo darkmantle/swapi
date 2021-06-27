@@ -1,0 +1,27 @@
+#viewpage {
+    .list-group-item {
+        .title {
+            min-width: 8.5em;
+            border-right: 1px solid white;
+            font-weight: bold;
+        }
+
+        :last-child {
+            padding-left: 1em !important;
+        }
+    }
+
+    h2 {
+        padding-top: 1em;
+        padding-bottom: 1em;
+    }
+
+    .header {
+        position: relative;
+
+        .back {
+            position: absolute;
+            left: 1em;
+        }
+    }
+}
