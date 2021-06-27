@@ -16,3 +16,9 @@ To run in production mode, run the following command and point your webserver to
 ```bash
 $ yarn build
 ```
+
+
+## Assumptions & Credit
+The useAsync hook being used was found at the following URL:
+
+[https://usehooks.com/useAsync/](https://usehooks.com/useAsync/)
